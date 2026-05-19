@@ -42,7 +42,7 @@
 | Thu | **Tempo** | 25 min @ 4:55–5:00/km | 9 km |
 | Sat | Long run | Z1–Z2 | 16 km |
 | Sun | Rest | — | — |
-| **Total** | | | **47 km** |
+| **Total** | | | **46 km** |
 
 ### Week 3
 | Day | Session | Detail | Distance |
@@ -62,7 +62,7 @@
 | Thu | **Strides** | Easy 6 km + 8 × 80m strides | 7 km |
 | Sat | Medium long run | Z1–Z2 | 12 km |
 | Sun | Rest | — | — |
-| **Total** | | | **35 km** |
+| **Total** | | | **36 km** |
 
 ---
 

@@ -27,11 +27,10 @@
 ### Week 1
 | Day | Session | Detail | Distance |
 |---|---|---|---|
-| Tue | **Cruise Intervals** | 4 × 1.5 km @ 4:55–5:00/km, 90 sec jog recovery | 10 km |
-| Wed | Easy run | Z1–Z2, conversational | 11 km |
-| Thu | **Tempo** | 20 min continuous @ 5:00/km | 9 km |
-| Sat | Long run | Z1–Z2, steady effort | 14 km |
-| Sun | Rest | — | — |
+| ~~Tue~~ | **Cruise Intervals** | 4 × 1.5 km @ 4:55–5:00/km, 90 sec jog recovery | 10 km |
+| ~~Wed~~ | Easy run | Z1–Z2, conversational | 11 km |
+| ~~Thu~~ | **Tempo** | 20 min continuous @ 5:00/km | 9 km |
+| ~~Sat~~ | Long run | Z1–Z2, steady effort | 14 km |
 | **Total** | | | **44 km** |
 
 ### Week 2
@@ -41,7 +40,6 @@
 | Wed | Easy run | Z1–Z2 | 11 km |
 | Thu | **Tempo** | 25 min @ 4:55–5:00/km | 9 km |
 | Sat | Long run | Z1–Z2 | 16 km |
-| Sun | Rest | — | — |
 | **Total** | | | **46 km** |
 
 ### Week 3
@@ -51,7 +49,6 @@
 | Wed | Easy run | Z1–Z2 | 11 km |
 | Thu | **Cruise Intervals** | 5 × 1.5 km @ 4:50–5:00/km, 90 sec jog | 11 km |
 | Sat | Long run | Z1–Z2 | 17 km |
-| Sun | Rest | — | — |
 | **Total** | | | **50 km** |
 
 ### Week 4 — Recovery Week
@@ -61,7 +58,6 @@
 | Wed | Easy run | Z1 | 9 km |
 | Thu | **Strides** | Easy 6 km + 8 × 80m strides | 7 km |
 | Sat | Medium long run | Z1–Z2 | 12 km |
-| Sun | Rest | — | — |
 | **Total** | | | **36 km** |
 
 ---
@@ -75,7 +71,6 @@
 | Wed | Easy run | Z1–Z2 | 12 km |
 | Thu | **Progression Tempo** | 30 min: first 10 min @ 5:00/km → last 10 min @ 4:45/km | 10 km |
 | Sat | Long run | 18 km, last 4 km @ 5:00/km | 18 km |
-| Sun | Rest | — | — |
 | **Total** | | | **52 km** |
 
 ### Week 6
@@ -85,7 +80,6 @@
 | Wed | Easy run | Z1–Z2 | 12 km |
 | Thu | **Threshold Cruise** | 3 × 3 km @ 4:45–4:50/km, 2 min rest | 12 km |
 | Sat | Long run | Z1–Z2 | 19 km |
-| Sun | Rest | — | — |
 | **Total** | | | **56 km** |
 
 ### Week 7
@@ -95,7 +89,6 @@
 | Wed | Easy run | Z1–Z2 | 12 km |
 | Thu | **Tempo** | 35 min continuous @ 4:45–4:50/km | 10 km |
 | Sat | Long run | 20 km, middle 8 km @ 5:00/km | 20 km |
-| Sun | Rest | — | — |
 | **Total** | | | **55 km** |
 
 ### Week 8 — Recovery Week
@@ -105,7 +98,6 @@
 | Wed | Easy run | Z1 | 10 km |
 | Thu | **Tempo** | 20 min @ 4:50/km | 8 km |
 | Sat | Medium long run | Z1–Z2 | 13 km |
-| Sun | Rest | — | — |
 | **Total** | | | **39 km** |
 
 ---
@@ -119,7 +111,6 @@
 | Wed | Easy run | Z1–Z2 | 12 km |
 | Thu | **Sub-LT Threshold** | 40 min @ 4:42–4:48/km | 11 km |
 | Sat | Long run | 20 km easy | 20 km |
-| Sun | Rest | — | — |
 | **Total** | | | **57 km** |
 
 ### Week 10
@@ -129,7 +120,6 @@
 | Wed | Easy run | Z1–Z2 | 12 km |
 | Thu | **Cruise Intervals** | 4 × 2 km @ 4:35–4:40/km, 90 sec jog | 12 km |
 | Sat | Long run | Z1–Z2, 18 km | 18 km |
-| Sun | Rest | — | — |
 | **Total** | | | **55 km** |
 
 ### Week 11 — Final Sharpening
@@ -139,7 +129,6 @@
 | Wed | Easy run | Z1 | 11 km |
 | Thu | **Short Race-Pace Blast** | 4 × 1 km @ 4:28/km, 2 min rest | 8 km |
 | Sat | Medium long run | 14 km easy | 14 km |
-| Sun | Rest | — | — |
 | **Total** | | | **42 km** |
 
 ---
@@ -201,8 +190,3 @@
 | 12 | 27 km |
 | **Total** | **~559 km** |
 
----
-
-*Plan built for current 10K PR of 49:15 · LT @ 5:00/km · VO₂ Max 48.0 ml/kg/min · Age 31*
-*Adjusted: Sunday run removed, Wednesday easy run +3 km*
-*Adjust paces ±5 sec/km based on heat, fatigue, or altitude. Listen to your body.*

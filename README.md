@@ -36,10 +36,10 @@
 ### Week 2
 | Day | Session | Detail | Distance |
 |---|---|---|---|
-| Tue | **VO₂ Max Intervals** | 5 × 1 km @ 4:10–4:20/km, 2 min jog | 10 km |
-| Wed | Easy run | Z1–Z2 | 11 km |
-| Thu | **Tempo** | 25 min @ 4:55–5:00/km | 9 km |
-| Sat | Long run | Z1–Z2 | 16 km |
+| ~~Tue~~ | **VO₂ Max Intervals** | 5 × 1 km @ 4:10–4:20/km, 2 min jog | 10 km |
+| ~~Wed~~ | Easy run | Z1–Z2 | 11 km |
+| ~~Thu~~ | **Tempo** | 25 min @ 4:55–5:00/km | 9 km |
+| ~~Sat~~ | Long run | Z1–Z2 | 16 km |
 | **Total** | | | **46 km** |
 
 ### Week 3

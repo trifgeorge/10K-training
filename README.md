@@ -45,10 +45,10 @@
 ### Week 3
 | Day | Session | Detail | Distance |
 |---|---|---|---|
-| Tue | **10K Race Pace** | 3 × 2 km @ 4:30/km, 2 min jog | 11 km |
-| Wed | Easy run | Z1–Z2 | 11 km |
-| Thu | **Cruise Intervals** | 5 × 1.5 km @ 4:50–5:00/km, 90 sec jog | 11 km |
-| Sat | Long run | Z1–Z2 | 17 km |
+| ~~Tue~~ | **10K Race Pace** | 3 × 2 km @ 4:30/km, 2 min jog | 11 km |
+| ~~Wed~~ | Easy run | Z1–Z2 | 11 km |
+| ~~Thu~~ | **Cruise Intervals** | 5 × 1.5 km @ 4:50–5:00/km, 90 sec jog | 11 km |
+| ~~Sat~~ | Long run | Z1–Z2 | 17 km |
 | **Total** | | | **50 km** |
 
 ### Week 4 — Recovery Week

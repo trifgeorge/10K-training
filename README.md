@@ -54,10 +54,10 @@
 ### Week 4 — Recovery Week
 | Day | Session | Detail | Distance |
 |---|---|---|---|
-| Tue | **Short Tempo** | 3 × 8 min @ 4:55/km, 2 min rest | 8 km |
-| Wed | Easy run | Z1 | 9 km |
-| Thu | **Strides** | Easy 6 km + 8 × 80m strides | 7 km |
-| Sat | Medium long run | Z1–Z2 | 12 km |
+| ~~Tue~~ | **Short Tempo** | 3 × 8 min @ 4:55/km, 2 min rest | 8 km |
+| ~~Wed~~ | Easy run | Z1 | 9 km |
+| ~~Thu~~ | **Strides** | Easy 6 km + 8 × 80m strides | 7 km |
+| ~~Sat~~ | Medium long run | Z1–Z2 | 12 km |
 | **Total** | | | **36 km** |
 
 ---

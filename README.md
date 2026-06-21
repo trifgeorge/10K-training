@@ -68,9 +68,9 @@
 | Day | Session | Detail | Distance |
 |---|---|---|---|
 | Tue | **VO₂ Max Intervals** | 6 × 1 km @ 4:05–4:15/km, 90 sec jog | 11 km |
-| Wed | Easy run | Z1–Z2 | 12 km |
-| Thu | **Progression Tempo** | 30 min: first 10 min @ 5:00/km → last 10 min @ 4:45/km | 10 km |
-| Sat | Long run | 18 km, last 4 km @ 5:00/km | 18 km |
+| ~~Wed~~ | Easy run | Z1–Z2 | 12 km |
+| ~~Thu~~ | **Progression Tempo** | 30 min: first 10 min @ 5:00/km → last 10 min @ 4:45/km | 10 km |
+| ~~Sat~~ | Long run | 18 km, last 4 km @ 5:00/km | 18 km |
 | **Total** | | | **52 km** |
 
 ### Week 6

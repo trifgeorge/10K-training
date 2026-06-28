@@ -76,10 +76,10 @@
 ### Week 6
 | Day | Session | Detail | Distance |
 |---|---|---|---|
-| Tue | **10K Race-Pace Reps** | 5 × 1.5 km @ 4:30/km, 90 sec jog | 12 km |
-| Wed | Easy run | Z1–Z2 | 12 km |
-| Thu | **Threshold Cruise** | 3 × 3 km @ 4:45–4:50/km, 2 min rest | 12 km |
-| Sat | Long run | Z1–Z2 | 19 km |
+| ~~Tue~~ | **10K Race-Pace Reps** | 5 × 1.5 km @ 4:30/km, 90 sec jog | 12 km |
+| ~~Wed~~ | Easy run | Z1–Z2 | 12 km |
+| ~~Thu~~ | **Threshold Cruise** | 3 × 3 km @ 4:45–4:50/km, 2 min rest | 12 km |
+| ~~Sat~~ | Long run | Z1–Z2 | 19 km |
 | **Total** | | | **56 km** |
 
 ### Week 7

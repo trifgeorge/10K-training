@@ -85,10 +85,10 @@
 ### Week 7
 | Day | Session | Detail | Distance |
 |---|---|---|---|
-| Tue | **Mixed Intervals** | 2 km @ 4:30/km + 1 km @ 4:00/km × 3, 2 min jog | 12 km |
-| Wed | Easy run | Z1–Z2 | 12 km |
-| Thu | **Tempo** | 35 min continuous @ 4:45–4:50/km | 10 km |
-| Sat | Long run | 20 km, middle 8 km @ 5:00/km | 20 km |
+| ~~Tue~~ | **Mixed Intervals** | 2 km @ 4:30/km + 1 km @ 4:00/km × 3, 2 min jog | 12 km |
+| ~~Wed~~ | Easy run | Z1–Z2 | 12 km |
+| ~~Thu~~ | **Tempo** | 35 min continuous @ 4:45–4:50/km | 10 km |
+| ~~Sat~~ | Long run | 20 km, middle 8 km @ 5:00/km | 20 km |
 | **Total** | | | **55 km** |
 
 ### Week 8 — Recovery Week

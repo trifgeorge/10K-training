@@ -94,10 +94,10 @@
 ### Week 8 — Recovery Week
 | Day | Session | Detail | Distance |
 |---|---|---|---|
-| Tue | **Race Pace Tune-Up** | 2 × 3 km @ 4:30/km, 3 min rest | 9 km |
-| Wed | Easy run | Z1 | 10 km |
-| Thu | **Tempo** | 20 min @ 4:50/km | 8 km |
-| Sat | Medium long run | Z1–Z2 | 13 km |
+| ~~Tue~~ | **Race Pace Tune-Up** | 2 × 3 km @ 4:30/km, 3 min rest | 9 km |
+| ~~Wed~~ | Easy run | Z1 | 10 km |
+| ~~Thu~~ | **Tempo** | 20 min @ 4:50/km | 8 km |
+| ~~Sat~~ | Medium long run | Z1–Z2 | 13 km |
 | **Total** | | | **39 km** |
 
 ---

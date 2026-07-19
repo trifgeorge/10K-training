@@ -107,10 +107,10 @@
 ### Week 9
 | Day | Session | Detail | Distance |
 |---|---|---|---|
-| Tue | **Long Race-Pace Reps** | 3 × 3 km @ 4:28–4:32/km, 2 min rest | 13 km |
-| Wed | Easy run | Z1–Z2 | 12 km |
-| Thu | **Sub-LT Threshold** | 40 min @ 4:42–4:48/km | 11 km |
-| Sat | Long run | 20 km easy | 20 km |
+| ~~Tue~~ | **Long Race-Pace Reps** | 3 × 3 km @ 4:28–4:32/km, 2 min rest | 13 km |
+| ~~Wed~~ | Easy run | Z1–Z2 | 12 km |
+| ~~Thu~~ | **Sub-LT Threshold** | 40 min @ 4:42–4:48/km | 11 km |
+| ~~Sat~~ | Long run | 20 km easy | 20 km |
 | **Total** | | | **57 km** |
 
 ### Week 10
